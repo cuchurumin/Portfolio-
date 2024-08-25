@@ -53,7 +53,7 @@ function App() {
               <div className="container__informacion">
                 <div className="descripcion">
                   <h2 className="titulo">
-                    Hola, soy Gerardo Chevarria
+                    Hola, soy Gerardo Chevarria y me gusta las chaquetitas :v
                   </h2>
                   <h2 className="subtitulo">Programador Frontend</h2>
                   <a href="https://api.whatsapp.com/send?phone=51910335230&text=Hola%20Gerardo!" className="button" target="_blank">Contáctame</a>
@@ -72,7 +72,7 @@ function App() {
               <img className="imagen-about" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1s31cS9q9zP1W2X4gJXk0evKaV3nsBHqdIre-rpR93w&s" alt="" />
             </div>
               <div className="descripcion-about">
-                <p className="texto-about">Soy un entusiasta joven apasionado por la tecnología. Recientemente me gradué en la carrera Ingeniería de Software, adquiriendo habilidades en el desarrollo de aplicaciones web. En mi tiempo libre, disfruto tocando la guitarra. Adjunto mi currículum vitae para más detalles.</p>
+                <p className="texto-about">Soy un entusiasta joven apasionado por la tecnología y los memes. Recientemente me gradué en la carrera Ingeniería de Software en senati, adquiriendo habilidades en el desarrollo de aplicaciones web. En mi tiempo libre, disfruto tocandome. Adjunto mi currículum vitae para más detalles. sale su left</p>
                 <div className="info-container">
                   <div className="info__about">
                     <span className="about-info__about">1+</span>
